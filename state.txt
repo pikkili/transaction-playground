@@ -1,3 +1,2 @@
 version 1
-this should fail
 version 2
